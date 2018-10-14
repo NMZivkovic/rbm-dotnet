@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestrictedBoltzmannMachine", "RestrictedBoltzmannMachine\RestrictedBoltzmannMachine.csproj", "{D0426F65-49EA-4CBB-8092-84E15C903E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestrictedBoltzmannMachineTest", "RestrictedBoltzmannMachineTest\RestrictedBoltzmannMachineTest.csproj", "{16A339D0-F5D7-492B-A8BD-F7860CA0D54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0426F65-49EA-4CBB-8092-84E15C903E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0426F65-49EA-4CBB-8092-84E15C903E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0426F65-49EA-4CBB-8092-84E15C903E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0426F65-49EA-4CBB-8092-84E15C903E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A339D0-F5D7-492B-A8BD-F7860CA0D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A339D0-F5D7-492B-A8BD-F7860CA0D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A339D0-F5D7-492B-A8BD-F7860CA0D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A339D0-F5D7-492B-A8BD-F7860CA0D54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80F9400-3E7A-4797-97A7-FE48AF9E410A}
+	EndGlobalSection
+EndGlobal
